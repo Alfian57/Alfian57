@@ -106,32 +106,6 @@
 
 <br/>
 
-### 🏆 Achievements & Stats
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=alfian57&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=alfian57&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfian57&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=alfian57&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-  </a>
-</div>
-
-<br/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
