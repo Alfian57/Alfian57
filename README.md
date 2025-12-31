@@ -14,17 +14,22 @@
  <i>"Debugging is like being the detective in a crime movie where you are also the murderer."</i>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/alfian-gading-saputra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+<h3 align="center">📊 Stats & Achievements</h3>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=alfian57&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
   </a>
-  <a href="https://instagram.com/gading.57" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfian57&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
   </a>
-  <a href="mailto:alfiangadingsaputra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=alfian57&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
   </a>
-</p>
+</div>
 
 <hr/>
 
