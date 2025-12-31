@@ -118,6 +118,14 @@
 
 <br/>
 
+### 🏆 Achievements & Stats
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=alfian57&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
