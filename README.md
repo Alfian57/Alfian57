@@ -1,131 +1,105 @@
-<h1 align="center">Hi 👋, I'm Alfian Gading Saputra</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3596F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;It+works+on+my+machine;I+write+bugs,+I+mean+features;Caffeine+Dependent+Life+Form" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a86ff&height=220&section=header&text=ALFIAN57&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Player%20Profile%20%2F%2F%20Backend%20Questline&descAlignY=58&descSize=18" alt="Header banner" />
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding meme" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Player+Profile+Loaded;Class%3A+Backend+Engineer;Current+Quest%3A+Building+reliable+systems+and+cleaner+architecture;Grinding%3A+Golang+Architecture+and+MongoDB;Passive+Trait%3A+It+works+on+my+machine" alt="Typing intro" />
 </p>
 
 <p align="center">
- <i>"Backend engineer who often makes APIs, but forgets the documentation."</i> 😅
- <br/>
- <i>"Debugging is like being the detective in a crime movie where you are also the murderer."</i>
+  <img src="https://img.shields.io/badge/LEVEL-LV_57-0f172a?style=for-the-badge" alt="Level badge" />
+  <img src="https://img.shields.io/badge/CLASS-Backend_Engineer-1d4ed8?style=for-the-badge" alt="Class badge" />
+  <img src="https://img.shields.io/badge/BUILD-Fullstack_Developer-14532d?style=for-the-badge" alt="Build badge" />
+  <img src="https://img.shields.io/badge/SERVER-Indonesia-f97316?style=for-the-badge" alt="Server badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Building_personal_projects-7c3aed?style=flat-square" alt="Status badge" />
+  <img src="https://img.shields.io/badge/CURRENT_FOCUS-APIs%2C_Go%2C_Clean_Architecture-0f766e?style=flat-square" alt="Current focus badge" />
+</p>
+
+## Player Stats
+
+| Attribute | Value |
+| --- | --- |
+| Real Name | Alfian Gading Saputra |
+| Alias | `alfian57` |
+| Main Class | Backend engineer who can switch into fullstack mode when the party needs it |
+| Guild Base | [alfian-gading.site](https://alfian-gading.site) |
+| Main Weapons | Go, Laravel, Node.js, PHP |
+| Current Zone | API design, system reliability, and architecture cleanup |
+| Party Status | Open for interesting backend and fullstack co-op quests |
+| Passive Trait | I write bugs, then rename them into features |
+
+## Quest Log
+
+- `Main Quest`: Ship personal projects that feel polished, useful, and reliable.
+- `Side Quest`: Go deeper into Golang architecture and MongoDB patterns.
+- `Daily Quest`: Turn random production weirdness into reproducible fixes.
+- `Support Quest`: Help teams shape APIs, dashboards, and internal tools.
+- `Boss Fight`: Writing documentation before future me starts complaining.
+
+## Skill Tree
+
+| Tree | Loadout | Rank |
+| --- | --- | --- |
+| Backend | <img src="https://skillicons.dev/icons?i=go,laravel,nodejs,php" alt="Backend icons" /> | `Main Class` |
+| Frontend | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" alt="Frontend icons" /> | `Support Class` |
+| Database | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Database icons" /> | `Battle Tested` |
+| DevOps | <img src="https://skillicons.dev/icons?i=docker,linux,git,bash" alt="DevOps icons" /> | `Field Ready` |
+
+## Achievements Unlocked
+
+| Achievement | Description |
+| --- | --- |
+| `API Builder` | Most comfortable when the problem ends with a clean endpoint and a stable service flow. |
+| `Bug Hunter` | Debugging until the logs confess and the stack trace stops lying. |
+| `Laravel Crafter` | Fast at shipping features without turning the codebase into side-quest content. |
+| `Go Explorer` | Actively leveling up in architecture, structure, and better backend habits. |
+| `Linux Survivor` | Terminal-first mindset with enough shell confidence to keep moving. |
+| `Documentation Escaper` | Fully aware docs matter, still occasionally tries to outrun them. |
+
+## Current Progress
+
+```text
+Golang Architecture  [#######---] 70%
+MongoDB Patterns     [######----] 60%
+System Design        [#####-----] 50%
+Open Source Quests   [###-------] 30%
+```
+
+## Arena Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alfian57&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfian57&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+</p>
+
+## Co-op Portal
+
+<p align="center">
+  Backend systems, APIs, dashboards, and weird bugs are always a good reason to team up.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/alfian-gading-saputra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/gading.57" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:alfiangadingsaputra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://alfian-gading.site" target="_blank">
+    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge" alt="Website" />
   </a>
 </p>
 
-<hr/>
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on my personal projects at [**alfian-gading.site**](https://alfian-gading.site)
-- 🌱 I’m currently learning **Golang Architecture** and **MongoDB**
-- ❓ Ask me about **Why my code works (I have no idea)**
-- ⚡ Fun fact: **I use Arch (Manjaro) btw** (had to say it).
-
-<br/>
-
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="500" />
+  <i>"Debugging is still like being the detective in a crime movie where you are also the murderer."</i>
 </p>
 
-<hr/>
-
-### 🛠️ Languages and Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Golang
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>Postgres
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🏆 Achievements & Stats
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=alfian57&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</div>
-
-<br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a86ff&height=120&section=footer" alt="Footer banner" />
 </p>
