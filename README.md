@@ -25,7 +25,7 @@
 | Real Name | Alfian Gading Saputra |
 | Alias | `alfian57` |
 | Main Class | Backend engineer who can switch into fullstack mode when the party needs it |
-| Guild Base | [alfian-gading.site](https://alfian-gading.site) |
+| Guild Base | [alfian-gading.my.id](https://alfian-gading.my.id) |
 | Main Weapons | Go, Laravel, Node.js, PHP |
 | Current Zone | API design, system reliability, and architecture cleanup |
 | Party Status | Open for interesting backend and fullstack co-op quests |
@@ -71,8 +71,8 @@ Open Source Quests   [###-------] 30%
 ## Arena Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alfian57&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfian57&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=alfian57&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alfian57&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
 </p>
 
 ## Co-op Portal
@@ -91,7 +91,7 @@ Open Source Quests   [###-------] 30%
   <a href="mailto:alfiangadingsaputra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://alfian-gading.site" target="_blank">
+  <a href="https://alfian-gading.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge" alt="Website" />
   </a>
 </p>
@@ -103,3 +103,8 @@ Open Source Quests   [###-------] 30%
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a86ff&height=120&section=footer" alt="Footer banner" />
 </p>
+
+<p align="center">
+  <sub>🕒 Last Updated: Friday, 21 August 2026, 07:38:10 WIB (UTC+7)</sub>
+</p>
+
