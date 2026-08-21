@@ -1,0 +1,33 @@
+name: Update README Last Updated
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Timestamp in README
+        run: |
+          NOW=$(TZ='Asia/Jakarta' date '+%A, %d %B %Y, %H:%M:%S WIB (UTC+7)')
+          sed -i -E "s|<sub>🕒 Last Updated: .*</sub>|<sub>🕒 Last Updated: ${NOW}</sub>|" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Alfian57"
+          git config --global user.email "alfiangadingsaputra@gmail.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update Last Updated timestamp [skip ci]"
+            git push origin main
+          fi
